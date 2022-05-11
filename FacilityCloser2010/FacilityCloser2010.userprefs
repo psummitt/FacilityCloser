@@ -1,0 +1,33 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" ctype="Workspace" />
+  <MonoDevelop.Ide.DebuggingService>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService>
+  <MonoDevelop.Ide.Workbench ActiveDocument="FacilityCloser2010/Default.aspx" ctype="Workbench">
+    <Files>
+      <File FileName="FacilityCloser2010/Default.aspx" Line="13" Column="5" />
+      <File FileName="FacilityCloser2010/Default.aspx.cs" Line="13" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="FacilityCloser2010" expanded="True">
+            <Node name="References" expanded="True" />
+            <Node name="Default.aspx" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State expanded="True" selected="True">
+          <Node name="FacilityCloser2010" expanded="True">
+            <Node name="References" expanded="True" />
+            <Node name="FacilityCloser2010" expanded="True">
+              <Node name="FacilityCloser2010.Default" expanded="True" />
+              <Node name="FacilityCloser2010.Global" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

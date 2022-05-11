@@ -1,0 +1,9 @@
+F:\projects\FacilityCloser\FacilityCloser\bin\FacilityCloser.dll
+F:\projects\FacilityCloser\FacilityCloser\bin\FacilityCloser.pdb
+F:\projects\FacilityCloser\FacilityCloser\bin\FacilityCloser.xml
+F:\projects\FacilityCloser\FacilityCloser\obj\Debug\ResolveAssemblyReference.cache
+F:\projects\FacilityCloser\FacilityCloser\obj\Debug\FacilityCloser.Resources.resources
+F:\projects\FacilityCloser\FacilityCloser\obj\Debug\FacilityCloser.vbproj.GenerateResource.Cache
+F:\projects\FacilityCloser\FacilityCloser\obj\Debug\FacilityCloser.dll
+F:\projects\FacilityCloser\FacilityCloser\obj\Debug\FacilityCloser.xml
+F:\projects\FacilityCloser\FacilityCloser\obj\Debug\FacilityCloser.pdb

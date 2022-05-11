@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FacilityCloser2010", "FacilityCloser2010\FacilityCloser2010.csproj", "{077E9A72-B271-4FAD-8E8B-F841F4595ED2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{077E9A72-B271-4FAD-8E8B-F841F4595ED2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{077E9A72-B271-4FAD-8E8B-F841F4595ED2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{077E9A72-B271-4FAD-8E8B-F841F4595ED2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{077E9A72-B271-4FAD-8E8B-F841F4595ED2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = FacilityCloser2010\FacilityCloser2010.csproj
+	EndGlobalSection
+EndGlobal
