@@ -7,3 +7,14 @@ F:\projects\FacilityCloser\FacilityCloser\obj\Debug\FacilityCloser.vbproj.Genera
 F:\projects\FacilityCloser\FacilityCloser\obj\Debug\FacilityCloser.dll
 F:\projects\FacilityCloser\FacilityCloser\obj\Debug\FacilityCloser.xml
 F:\projects\FacilityCloser\FacilityCloser\obj\Debug\FacilityCloser.pdb
+J:\Github\FacilityCloser\FacilityCloser\bin\FacilityCloser.dll.config
+J:\Github\FacilityCloser\FacilityCloser\bin\FacilityCloser.dll
+J:\Github\FacilityCloser\FacilityCloser\bin\FacilityCloser.pdb
+J:\Github\FacilityCloser\FacilityCloser\bin\FacilityCloser.xml
+J:\Github\FacilityCloser\FacilityCloser\obj\Debug\FacilityCloser.vbproj.AssemblyReference.cache
+J:\Github\FacilityCloser\FacilityCloser\obj\Debug\FacilityCloser.Resources.resources
+J:\Github\FacilityCloser\FacilityCloser\obj\Debug\FacilityCloser.vbproj.GenerateResource.cache
+J:\Github\FacilityCloser\FacilityCloser\obj\Debug\FacilityCloser.vbproj.CoreCompileInputs.cache
+J:\Github\FacilityCloser\FacilityCloser\obj\Debug\FacilityCloser.dll
+J:\Github\FacilityCloser\FacilityCloser\obj\Debug\FacilityCloser.xml
+J:\Github\FacilityCloser\FacilityCloser\obj\Debug\FacilityCloser.pdb
