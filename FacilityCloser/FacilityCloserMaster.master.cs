@@ -1,7 +1,4 @@
-﻿using System;
-using System.Web;
-using System.Web.UI;
-namespace FacilityCloser
+﻿namespace FacilityCloser
 {
     public partial class FacilityCloserMaster : System.Web.UI.MasterPage
     {
