@@ -1,1 +1,0 @@
-<%@ Application Inherits="FacilityCloser2010.Global" %>
